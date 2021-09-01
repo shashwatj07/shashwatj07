@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Shashwat Jaiswal</h1>
+<h1 align="center">Hi 👋, I'm Shashwat</h1>
 <h3 align="center">Exploring everyday!</h3>
 
 - 📫 Contact me at **shashwatjaiswal2001@gmail.com**
